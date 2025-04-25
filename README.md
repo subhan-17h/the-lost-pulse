@@ -1,6 +1,6 @@
 ## 🔷 Game Logo
 
-<img src="Assets/Preview/Logo.png" alt="Game Logo" width="300"/>
+<img src="Assets/Preview/Logo.png" alt="Game Logo" width="100"/>
 # 🌌 The Lost Pulse
 
 **The Lost Pulse** is an immersive third-person exploration game built in Unity, where the player collects crystals, unlocks ancient mechanisms, and retrieves a powerful energy source to trigger a cinematic sequence and unveil the final mystery.
